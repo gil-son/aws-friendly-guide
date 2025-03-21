@@ -102,3 +102,10 @@ O último tipo de implantação que você pode fazer é chamado de Multi-Região
 
 </details>
   
+<details><summary><h3>Vídeo</h3></summary>
+  <div align="center">
+    <a href="https://www.youtube.com/watch?v=7JU5OB4hk3Q" target="_blank">
+        <img width="640" height="360" src="https://i.ytimg.com/vi/7JU5OB4hk3Q/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBaiI5PTFateg6_xuQG-2ZHynuByA" alt="Watch Video" />
+    </a>
+  </div>
+</details>
