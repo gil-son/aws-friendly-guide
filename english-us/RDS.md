@@ -97,3 +97,10 @@ The last kind of deployment you can do is called Multi Region. So this is for re
 
 </details>
 
+<details><summary><h3>Video</h3></summary>
+  <div align="center">
+    <a href="https://www.youtube.com/watch?v=ylmwaDUMV9c" target="_blank">
+        <img width="640" height="360" src="https://i.ytimg.com/vi/ylmwaDUMV9c/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAZ7t9kGaTpA5pjlRei7CuCKqR2Sg" alt="Watch Video" />
+    </a>
+  </div>
+</details>
