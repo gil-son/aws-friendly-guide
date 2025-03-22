@@ -1,8 +1,8 @@
 IAM
 <div align="center">
-  <img src="https://branditechture.agency/brand-logos/wp-content/uploads/wpdm-cache/AWS-IAM-900x0.png" width="50%">
+  <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/aws-cloud-security/control-access-with-aws-identity-and-access-management/images/3d5ecfeab35e8dfc1eb781f7880fafc9_99-c-15-ccc-fe-5-e-4-d-8-f-bcfc-193197-b-9-dc-7-b.png" width="25%">
 </div>
-
+<br/>
 AWS <b>Identity and Access Management (IAM)</b> is one of the main resources because it allows for secure management of access to AWS services and other resources by creating user groups, users, and permissions.
 <div align="center">
   <img src="https://user-images.githubusercontent.com/72712095/227651287-bb0f47cf-106b-4b27-be56-f954afef6bbb.png">
@@ -80,3 +80,10 @@ AWS <b>Identity and Access Management (IAM)</b> is one of the main resources bec
 </ul> 
 </details>
 
+<details><summary><h3>Video</h3></summary>
+  <div align="center">
+    <a href="https://www.youtube.com/watch?v=iF9fs8Rw4Uo" target="_blank">
+        <img width="640" height="360" src="https://i.ytimg.com/vi/iF9fs8Rw4Uo/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAMktPdHJWH_ukQo1akCEDQJJihyg" alt="Watch Video" />
+    </a>
+  </div>
+</details>
