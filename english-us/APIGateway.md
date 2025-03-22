@@ -1,4 +1,4 @@
-Api Gateway
+API Gateway
 
 <div align="center">
   <img src="https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/7796517/api-gateway-icon-aws-clipart-xl.png" width="25%">
@@ -42,4 +42,12 @@ Some best practices for using Amazon API Gateway include:
   <li>Using monitoring resources, such as Amazon CloudWatch, to monitor and analyze the API's performance and efficiency</li>
   <li>Testing and validating the API before deploying it in production</li>
 </ul>
+</details>
+
+<details><summary><h3>Video</h3></summary>
+  <div align="center">
+    <a href="https://www.youtube.com/watch?v=pgpWyn_6zlA" target="_blank">
+        <img width="640" height="360" src="https://i.ytimg.com/vi/pgpWyn_6zlA/hq720.jpg?sqp=-oaymwFBCNAFEJQDSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGH8gEyhGMA8=&rs=AOn4CLBMKJY5B93UnnyyOSgZE5v8LwjFiw" alt="Watch Video" />
+    </a>
+  </div>
 </details>
