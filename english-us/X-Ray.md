@@ -67,3 +67,11 @@ Common use cases for AWS X-Ray include:
 - **Compliance and Auditing**: Maintaining logs and traces for compliance purposes.
 
 </details> 
+
+<details><summary><h3>Video</h3></summary>
+  <div align="center">
+    <a href="https://www.youtube.com/watch?v=5lIdNrrO_o8" target="_blank">
+        <img width="640" height="360" src="https://i.ytimg.com/vi/5lIdNrrO_o8/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBdlOD2EMhxdnI_1qhxnx-LtyYK2A" alt="Watch Video" />
+    </a>
+  </div>
+</details>
