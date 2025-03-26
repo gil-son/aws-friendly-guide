@@ -35,3 +35,18 @@ Amazon Route 53 é um serviço de Sistema de Nomes de Domínio (DNS) altamente d
   <li>Revise e atualize regularmente as informações de registro de domínio para garantir propriedade e detalhes de contato precisos.</li>
 </ul>
 </details>
+
+<details><summary><h3>Vídeos</h3></summary>
+  <div align="center">
+    <a href="https://www.youtube.com/watch?v=YoYGnRR2cOM" target="_blank">
+        <img width="640" height="360" src="https://i.ytimg.com/vi/YoYGnRR2cOM/hqdefault.jpg?sqp=-oaymwEnCOADEI4CSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA0mT1KvYHOIF-KCSO7MkO6qmYEPw" alt="Watch Video" />
+    </a>
+  </div>
+<hr/>
+ <div align="center">
+    <a href="https://www.youtube.com/watch?v=ma5n_5sOePw" target="_blank">
+        <img width="640" height="360" src="https://i.ytimg.com/vi/ma5n_5sOePw/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCtFK7bd7ISpYOBbj3BDWvboGVlwg" alt="Watch Video" />
+    </a>
+  </div>
+</details>
+
