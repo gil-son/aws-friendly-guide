@@ -35,3 +35,11 @@ Amazon Route 53 is a scalable and highly available Domain Name System (DNS) web 
   <li>Regularly review and update your domain registration information to ensure accurate ownership and contact details.</li>
 </ul>
 </details>
+
+<details><summary><h3>Video</h3></summary>
+  <div align="center">
+    <a href="https://www.youtube.com/watch?v=JRZiQFVWpi8" target="_blank">
+        <img width="640" height="360" src="https://i.ytimg.com/vi/JRZiQFVWpi8/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAPmbSytiCz4SjJmik7iEGrQKyWnQ" alt="Watch Video" />
+    </a>
+  </div>
+</details>
