@@ -53,3 +53,11 @@ Common use cases for Amazon Kendra include:
 - **Healthcare:** Helping healthcare providers access clinical documentation and guidelines.
 
 </details>
+
+<details><summary><h3>Video</h3></summary>
+  <div align="center">
+    <a href="https://www.youtube.com/watch?v=QqLE_8mJCR8" target="_blank">
+        <img width="640" height="360" src="https://i.ytimg.com/vi/QqLE_8mJCR8/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAqsYsSHSFPGxHq5mLp4cFHc7r1-w" alt="Watch Video" />
+    </a>
+  </div>
+</details>
