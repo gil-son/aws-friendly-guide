@@ -327,13 +327,18 @@ In summary, AWS is like "a cloud tool store", where you rent only what you need 
 
 ### Cloud Practitioner (CLF-C02)
 - <a href="https://simuladoclf.s3.amazonaws.com/english.html" target="_blank">Simulado CLF</a>
+- <a href="https://en.daypo.com/aws-cloud-practicioner-clf-c02.html" target="_blank">Daypo</a>
+- <a href="https://www.examprepper.co/" target="_blank">Examprepper</a>
 
 ### Developer Associate (DVA-C01)
-- <a href="https://devspot.org/DVA-C01.html" target="_blank">DevSpot - DVA-C01</a>  
-- <a href="https://www.freecram.net/exam/DVA-C01-aws-certified-developer-associate-exam-e10023.html" target="_blank">FreeCram - DVA-C01 Practice Exam</a>
+- <a href="https://devspot.org/DVA-C01.html" target="_blank">DevSpot</a>  
+- <a href="https://www.freecram.net/exam/DVA-C01-aws-certified-developer-associate-exam-e10023.html" target="_blank">FreeCram</a>
+- <a href="https://en.daypo.com/aws-developer-tricky-question.html" target="_blank">Daypo</a>
+- <a href="https://www.examprepper.co/" target="_blank">Examprepper</a>
 
 ### Solutions Architect (SAA-C02)
-- <a href="https://devspot.org/SAA-C02.html" target="_blank">DevSpot - SAA-C02</a>
+- <a href="https://devspot.org/SAA-C02.html" target="_blank">DevSpot</a>
+- <a href="https://www.examprepper.co/" target="_blank">Examprepper</a>
 
 </details>
 
@@ -662,13 +667,18 @@ Resumindo, a AWS é como "uma loja de ferramentas na nuvem", onde você aluga ap
 
 ### Cloud Practitioner (CLF-C02)
 - <a href="https://simuladoclf.s3.amazonaws.com/english.html" target="_blank">Simulado CLF</a>
+- <a href="https://en.daypo.com/aws-cloud-practicioner-clf-c02.html" target="_blank">Daypo</a>
+- <a href="https://www.examprepper.co/" target="_blank">Examprepper</a>
 
 ### Developer Associate (DVA-C01)
-- <a href="https://devspot.org/DVA-C01.html" target="_blank">DevSpot - DVA-C01</a>  
-- <a href="https://www.freecram.net/exam/DVA-C01-aws-certified-developer-associate-exam-e10023.html" target="_blank">FreeCram - Simulado DVA-C01</a>
+- <a href="https://devspot.org/DVA-C01.html" target="_blank">DevSpot</a>  
+- <a href="https://www.freecram.net/exam/DVA-C01-aws-certified-developer-associate-exam-e10023.html" target="_blank">FreeCram</a>
+- <a href="https://en.daypo.com/aws-developer-tricky-question.html" target="_blank">Daypo</a>
+- <a href="https://www.examprepper.co/" target="_blank">Examprepper</a>
 
 ### Solutions Architect (SAA-C02)
-- <a href="https://devspot.org/SAA-C02.html" target="_blank">DevSpot - SAA-C02</a>
+- <a href="https://devspot.org/SAA-C02.html" target="_blank">DevSpot</a>
+- <a href="https://www.examprepper.co/" target="_blank">Examprepper</a>
 
 </details>
 
