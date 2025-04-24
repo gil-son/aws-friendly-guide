@@ -51,3 +51,11 @@ Common use cases for AWS Translate include:
 - Social Media Monitoring: Translating social media content to understand customer sentiment across different languages.
 
 </details>
+
+<details><summary><h3>Video</h3></summary>
+  <div align="center">
+    <a href="https://www.youtube.com/watch?v=5S9amh1IWzQ" target="_blank">
+        <img width="640" height="360" src="https://i.ytimg.com/vi/5S9amh1IWzQ/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD9Mx7_3V_c3yaMdFFsHBvkqIXeAw" alt="Watch Video" />
+    </a>
+  </div>
+</details>
