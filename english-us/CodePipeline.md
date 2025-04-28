@@ -50,3 +50,17 @@ Common use cases for AWS CodePipeline include:
 - Testing and Monitoring: Running automated tests and monitoring results to ensure quality before deployment.
 
 </details>
+
+<details><summary><h3>Videos</h3></summary>
+  <div align="center">
+    <a href="https://www.youtube.com/watch?v=YxcIj_SLflw" target="_blank">
+        <img width="640" height="360" src="https://i.ytimg.com/vi/YxcIj_SLflw/hqdefault.jpg?sqp=-oaymwEnCOADEI4CSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDIZrCVOgyMtTzcXbo8FPJEHHAp-A" alt="Watch Video" />
+    </a>
+  </div>
+  <hr/>
+  <div align="center">
+    <a href="https://www.youtube.com/watch?v=e90rz62rk-8" target="_blank">
+        <img width="640" height="360" src="https://i.ytimg.com/vi/e90rz62rk-8/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC7BcWgcFXzLz1pyhnpORqT0bkAyw" alt="Watch Video" />
+    </a>
+  </div>
+</details>
