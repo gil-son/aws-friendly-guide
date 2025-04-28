@@ -50,3 +50,19 @@ Casos de uso comuns do AWS CodePipeline incluem:
 - **Testes e Monitoramento**: Execução de testes automatizados e monitoramento de resultados para garantir a qualidade antes da implantação.
 
 </details>
+
+<details><summary><h3>Vídeos</h3></summary>
+
+  <div align="center">
+    <a href="https://www.youtube.com/watch?v=qYfLTT5XhAU" target="_blank">
+        <img width="640" height="360" src="https://i.ytimg.com/vi/qYfLTT5XhAU/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA4XYPU3awRfTT0Sy1XcEksFMCcxg" alt="Watch Video" />
+    </a>
+  </div>
+  <hr/>
+  <div align="center">
+    <a href="https://www.youtube.com/watch?v=2fftNe4GDMw" target="_blank">
+        <img width="640" height="360" src="https://i.ytimg.com/vi/2fftNe4GDMw/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDLmyV65bs2nh8wd9fFC22iORIQ6Q" alt="Watch Video" />
+    </a>
+  </div>
+
+</details>
