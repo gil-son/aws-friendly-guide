@@ -1,7 +1,7 @@
 # AWS
 
 <div align="center">
-  <img src="https://i.ibb.co/6PMkBpW/AWS-Services-Shelf.png" width="40%">
+  <img src="https://i.ibb.co/ZRx0P1C1/68747470733a2f2f692e6962622e636f2f36504d6b4270572f4157532d53657276696365732d5368656c662e706e67.png" width="40%">
 </div>
 
 
