@@ -1,7 +1,7 @@
 Aurora
 
 <div align="center">
-  <img src="https://bluesentry.cloud/wp-content/uploads/2021/02/amazon_aurora.png" width="40%">
+  <img src="https://dbdb.io/media/logos/amazon-aurora_IGQMXko.png" width="20%">
 </div>
 <br>
 <br>
@@ -95,4 +95,10 @@ Bem, do ponto de vista do cliente, é super fácil. Ele se conecta a uma frota d
 
 </details>
 
+<details><summary><h3>Vídeo</h3></summary>
+  <div align="center">
+    <a href="https://www.youtube.com/watch?v=QIYJ3bFnmIQ" target="_blank">
+        <img width="640" height="360" src="https://i.ytimg.com/vi/QIYJ3bFnmIQ/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDh0GgMHtW0TNSYETgurI-wLP3VZQ" alt="Watch Video" />
+    </a>
+  </div>
 </details>
