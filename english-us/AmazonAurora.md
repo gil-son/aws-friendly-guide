@@ -1,7 +1,7 @@
 Aurora
 
 <div align="center">
-  <img src="https://bluesentry.cloud/wp-content/uploads/2021/02/amazon_aurora.png" width="40%">
+  <img src="https://dbdb.io/media/logos/amazon-aurora_IGQMXko.png" width="20%">
 </div>
 <br>
 <br>
@@ -94,4 +94,10 @@ Well, from the client perspective, it's super easy. It connects to a proxy fleet
 </details>
 
 
+<details><summary><h3>Vídeo</h3></summary>
+  <div align="center">
+    <a href="https://www.youtube.com/watch?v=ZCt3ctVfGIk" target="_blank">
+        <img width="640" height="360" src="https://i.ytimg.com/vi/ZCt3ctVfGIk/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDcWQlZNNF7GQ8xPYD5H8t3cjsT7A" alt="Watch Video" />
+    </a>
+  </div>
 </details>
