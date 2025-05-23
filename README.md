@@ -729,6 +729,53 @@ Resumindo, a AWS é como "uma loja de ferramentas na nuvem", onde você aluga ap
 
 </details>
 
+<details>
+  <summary>Previsor de Desempenho em Exames</summary>
+
+  <div align="center">
+    <img src="https://cdn-icons-png.flaticon.com/512/10817/10817446.png" width="20%">
+  </div>
+
+  Desenvolvi um aplicativo web com IA que prevê sua nota provável em um exame com base em seus hábitos, sono, rotina de estudos, motivação e outros fatores.
+
+  ### 🧠 Como Funciona
+
+  1. **Informe Seus Dados**  
+     Forneça informações básicas pessoais e relacionadas aos seus estudos.
+
+  <div align="center">
+    <img src="https://cdn-icons-png.flaticon.com/512/4061/4061961.png" width="10%">
+  </div>
+
+  2. **A IA Faz a Previsão**  
+     Um modelo de Regressão Linear analisa seus dados para estimar sua nota.
+
+  <div align="center">
+    <img src="https://cdn-icons-png.flaticon.com/512/10087/10087719.png" width="10%">
+  </div>
+
+  3. **Veja Sua Nota Estimada**  
+     Você receberá um percentual aproximado de desempenho.
+
+  <div align="center">
+    <img src="https://cdn-icons-png.flaticon.com/512/1549/1549879.png" width="10%">
+  </div>
+
+  ### ✅ Funcionalidades
+
+  - Interface amigável com Streamlit  
+  - Previsão de desempenho em tempo real  
+  - Verificação humana para evitar bots  
+  - Sistema de espera entre tentativas
+
+  ### 🔗 Links
+
+  - 🚀 **Aplicação ao Vivo**: [Testar aqui](https://github.com/gil-son/exam-predictor-linear-regression)  
+  - 🛠️ **Código-Fonte**: [Repositório no GitHub](https://github.com/gil-son/exam-predictor-linear-regression)
+
+</details>
+
+
 <hr/>
 
 
