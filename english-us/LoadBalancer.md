@@ -152,3 +152,11 @@ Load balancing is a versatile concept and can be applied to various types of res
       <li>Test and validate Lambda functions before deploying them to production.</li>
     </ul>
   </details>
+
+<details><summary><h3>Video</h3></summary>
+  <div align="center">
+    <a href="https://www.youtube.com/watch?v=qpHLRc4Qt1E" target="_blank">
+        <img width="640" height="360" src="https://i.ytimg.com/vi/qpHLRc4Qt1E/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBxhzm_r-Yhsmyqopw15Yz2yJoySw" alt="Watch Video" />
+    </a>
+  </div>
+</details>
