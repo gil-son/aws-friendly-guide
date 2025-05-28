@@ -143,3 +143,11 @@ O balanceamento de carga é um conceito versátil e pode ser aplicado a vários 
       <li>Teste e valide funções Lambda antes de implantá-las em produção.</li>
     </ul>
   </details>
+
+  <details><summary><h3>Vídeo</h3></summary>
+  <div align="center">
+    <a href="https://www.youtube.com/watch?v=9bjBOOfPtRk" target="_blank">
+        <img width="640" height="360" src="https://i.ytimg.com/vi/9bjBOOfPtRk/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDjN9XDNKG-0qk1us2n3Wdw9wyjOQ" alt="Watch Video" />
+    </a>
+  </div>
+</details>
