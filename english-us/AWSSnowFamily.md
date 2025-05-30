@@ -289,6 +289,14 @@ Finally, for the Snow Family, there is OpsHub:
   <img src="https://media.amazonwebservices.com/blog/2020/oh_dash_1.png">
 </div>
 
+<details><summary><h3>Video</h3></summary>
+  <div align="center">
+    <a href="https://www.youtube.com/watch?v=Smd-sOkgieU target="_blank">
+        <img width="640" height="360" src="https://i.ytimg.com/vi/Smd-sOkgieU/hq720.jpg?sqp=-oaymwFBCNAFEJQDSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLAv-cehV33ljO8b6kH6Qs1oJ-XFxw" alt="Watch Video" />
+    </a>
+  </div>
+</details>
+
 
 
 
