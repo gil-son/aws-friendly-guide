@@ -773,7 +773,7 @@ Resumindo, a AWS é como "uma loja de ferramentas na nuvem", onde você aluga ap
 
   ### 🔗 Links
 
-  - 🚀 **Aplicação online**: [Testar aqui](http://54.234.171.149:8501)
+  - 🚀 **Aplicação online**: [Testar aqui](http://54.234.171.149:8501/)
   - 🛠️ **Código-Fonte**: [Repositório no GitHub](https://github.com/gil-son/exam-predictor-linear-regression)
     - Esta é a **versão Beta**
     - Disponível diariamente das **10h às 19h (UTC-3 / Horário de Brasília)**
