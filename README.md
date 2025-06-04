@@ -383,8 +383,11 @@ In summary, AWS is like "a cloud tool store", where you rent only what you need 
 
   ### 🔗 Links
 
-  - 🚀 **Live App**: [Try it here](https://github.com/gil-son/exam-predictor-linear-regression)  
+  - 🚀 **Live App**: [Try it here](http://34.237.245.45:8501/)
   - 🛠️ **Source Code**: [GitHub Repository](https://github.com/gil-son/exam-predictor-linear-regression)
+     - This is the **Beta version**
+     - Available daily from **10 AM to 9 PM — UTC-3 / Brasília Time**)
+     - You can test it **once per day**  
 
 </details>
 
@@ -770,8 +773,11 @@ Resumindo, a AWS é como "uma loja de ferramentas na nuvem", onde você aluga ap
 
   ### 🔗 Links
 
-  - 🚀 **Aplicação ao Vivo**: [Testar aqui](https://github.com/gil-son/exam-predictor-linear-regression)  
+  - 🚀 **Aplicação online**: [Testar aqui](http://34.237.245.45:8501/)
   - 🛠️ **Código-Fonte**: [Repositório no GitHub](https://github.com/gil-son/exam-predictor-linear-regression)
+    - Esta é a **versão Beta**
+    - Disponível diariamente das **10h às 21h — UTC-3 / Horário de Brasília**
+    - Você pode testá-la **uma vez por dia**   
 
 </details>
 
