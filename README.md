@@ -342,57 +342,6 @@ In summary, AWS is like "a cloud tool store", where you rent only what you need 
 
 </details>
 
-<details>
-  <summary>Exam Performance Predictor</summary>
-
-  <div align="center">
-    <img src="https://cdn-icons-png.flaticon.com/512/10817/10817446.png" width="20%">
-  </div>
-
-  I built an AI-powered web app that predicts your likely exam score based on your habits, sleep, study routine, motivation, and more.
-
-  ### 🧠 How it Works
-
-  1. **Provide Your Information**  
-     Input basic personal and study-related details.
-
-  <div align="center">
-    <img src="https://cdn-icons-png.flaticon.com/512/4061/4061961.png" width="10%">
-  </div>
-
-  2. **AI Makes a Prediction**  
-     A Linear Regression model analyzes your inputs to estimate your exam score.
-
-  <div align="center">
-    <img src="https://cdn-icons-png.flaticon.com/512/10087/10087719.png" width="10%">
-  </div>
-
-  3. **Get an Approximate Score**  
-     You'll receive a predicted performance percentage.
-
-  <div align="center">
-    <img src="https://cdn-icons-png.flaticon.com/512/1549/1549879.png" width="10%">
-  </div>
-
-  ### ✅ Features
-
-  - Friendly Streamlit interface  
-  - Real-time performance prediction  
-  - Human verification to block bots  
-  - Cooldown system to prevent repeated requests  
-
-  ### 🔗 Links
-
-  - 🚀 **Live App**: [Try it here](http://54.224.64.224:8501)
-  - 🛠️ **Source Code**: [GitHub Repository](https://github.com/gil-son/exam-predictor-linear-regression)
-     - This is the **Beta version**
-     - Available daily from **10 AM to 7 PM (UTC-3 / Brasília Time)**
-     - You can test it **once per day**  
-
-</details>
-
-
-
 <hr/>
 
 ### Ler em Português
@@ -731,56 +680,6 @@ Resumindo, a AWS é como "uma loja de ferramentas na nuvem", onde você aluga ap
 - <a href="https://www.examprepper.co/" target="_blank">Examprepper</a>
 
 </details>
-
-<details>
-  <summary>Previsor de Desempenho em Exames</summary>
-
-  <div align="center">
-    <img src="https://cdn-icons-png.flaticon.com/512/10817/10817446.png" width="20%">
-  </div>
-
-  Desenvolvi um aplicativo web com IA que prevê sua nota provável em um exame com base em seus hábitos, sono, rotina de estudos, motivação e outros fatores.
-
-  ### 🧠 Como Funciona
-
-  1. **Informe Seus Dados**  
-     Forneça informações básicas pessoais e relacionadas aos seus estudos.
-
-  <div align="center">
-    <img src="https://cdn-icons-png.flaticon.com/512/4061/4061961.png" width="10%">
-  </div>
-
-  2. **A IA Faz a Previsão**  
-     Um modelo de Regressão Linear analisa seus dados para estimar sua nota.
-
-  <div align="center">
-    <img src="https://cdn-icons-png.flaticon.com/512/10087/10087719.png" width="10%">
-  </div>
-
-  3. **Veja Sua Nota Estimada**  
-     Você receberá um percentual aproximado de desempenho.
-
-  <div align="center">
-    <img src="https://cdn-icons-png.flaticon.com/512/1549/1549879.png" width="10%">
-  </div>
-
-  ### ✅ Funcionalidades
-
-  - Interface amigável com Streamlit  
-  - Previsão de desempenho em tempo real  
-  - Verificação humana para evitar bots  
-  - Sistema de espera entre tentativas
-
-  ### 🔗 Links
-
-  - 🚀 **Aplicação online**: [Testar aqui](http://54.224.64.224:8501)
-  - 🛠️ **Código-Fonte**: [Repositório no GitHub](https://github.com/gil-son/exam-predictor-linear-regression)
-    - Esta é a **versão Beta**
-    - Disponível diariamente das **10h às 19h (UTC-3 / Horário de Brasília)**
-    - Você pode testá-la **uma vez por dia**   
-
-</details>
-
 
 <hr/>
 
