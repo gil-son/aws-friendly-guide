@@ -52,3 +52,17 @@ Common use cases for Amazon Comprehend include:
 - Business Intelligence: Gaining insights from text data to inform strategic decisions.
 - Healthcare: Analyzing patient records and medical literature for insights.
 </details>
+
+<details><summary><h3>Videos</h3></summary>
+  <div align="center">
+    <a href="https://www.youtube.com/watch?v=BKgTJCJ0eGg" target="_blank">
+        <img width="640" height="360" src="https://i.ytimg.com/vi/BKgTJCJ0eGg/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDI6fK8foXE6gg-zZFi4IBxG5wC6A" alt="Watch Video" />
+    </a>
+  </div>
+<hr/>
+  <div align="center">
+    <a href="https://www.youtube.com/watch?v=0UWsguem9xQ" target="_blank">
+        <img width="640" height="360" src="https://i.ytimg.com/vi/0UWsguem9xQ/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAth-GGQUjISC4OzIE9LuZnNnyE_Q" alt="Watch Video" />
+    </a>
+  </div>
+</details>
