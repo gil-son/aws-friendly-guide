@@ -52,3 +52,11 @@ Os casos de uso comuns do Amazon Comprehend incluem:
 - Inteligência de Negócios: Obter insights de dados de texto para informar decisões estratégicas.
 - Saúde: Analisar registros de pacientes e literatura médica para obter insights.
 </details>
+
+<details><summary><h3>Vídeo</h3></summary>
+  <div align="center">
+    <a href="https://www.youtube.com/watch?v=Amm461flLsY" target="_blank">
+        <img width="640" height="360" src="https://i.ytimg.com/vi/Amm461flLsY/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCrUdgixuFJ_zAFm_Q23EEyYvEypQ" alt="Watch Video" />
+    </a>
+  </div>
+</details>
