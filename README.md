@@ -14,7 +14,7 @@
   <summary>Welcome</summary>
   <br/>
   <div align="center">
-    <img src="https://cdn-icons-png.flaticon.com/512/3855/3855345.png" width="20%">
+    <img src="https://cdn-icons-png.flaticon.com/512/5551/5551674.png" width="20%">
   </div>
       
   <p>This documentation serves as a platform to enhance and disseminate knowledge about AWS. I have crafted it to be intuitive, incorporating diagrams, partitions, examples, illustrations, and more.</p>
@@ -24,7 +24,7 @@
 
   #### AWS analogy
   
-  AWS (Amazon Web Services) is a cloud platform from Amazon that offers various services for businesses and developers. To better understand, imagine that AWS is like a large tool store, where you can rent everything you need to build your house (or in this case, your application in the cloud).
+  AWS (Amazon Web Services) is a cloud platform from Amazon that offers various services for businesses and developers. To better understand, imagine that AWS is like a large tool store, where you can rent everything you need to build/repair your house (or in this case, your application in the cloud).
 
 There you can find simple shelves like S3 (for storage) to more complex tools like EC2 (for creating virtual servers). And if you need something even more specific, just take a look at the store catalog (Amazon Marketplace), which has a little bit of everything.
 
@@ -35,13 +35,14 @@ Additionally, AWS has a security team that keeps an eye on everything all the ti
 In summary, AWS is like "a cloud tool store", where you rent only what you need and have security guaranteed by Amazon's team. Now just choose the right tools to build your house (or your application) and get to work!
 
   <div align="center">
-      <img src="https://cdn-icons-png.flaticon.com/512/7714/7714580.png" width="12%">
+      <img src="https://cdn-icons-png.flaticon.com/512/3764/3764417.png" width="12%">
       <img src="https://cdn-icons-png.flaticon.com/512/3032/3032220.png" width="5%">
-      <img src="https://cdn-icons-png.flaticon.com/512/7845/7845642.png" width="12%">
+      <img src="https://cdn-icons-png.flaticon.com/512/5357/5357777.png" width="12%">
       <img src="https://cdn-icons-png.flaticon.com/512/3032/3032220.png" width="5%">
-      <img src="https://cdn-icons-png.flaticon.com/512/2590/2590584.png" width="12%">
+      <img src="https://cdn-icons-png.flaticon.com/512/11568/11568924.png" width="12%">
       <img src="https://cdn-icons-png.flaticon.com/512/3032/3032230.png" width="5%">
-      <img src="https://cdn-icons-png.flaticon.com/512/1864/1864777.png" width="12%">
+      <img src="https://cdn-icons-png.flaticon.com/512/17902/17902959.png" width="12%">
+      <img src="https://cdn-icons-png.flaticon.com/512/2241/2241772.png" width="12%">
     </div> 
            
 </details>
@@ -401,7 +402,7 @@ In summary, AWS is like "a cloud tool store", where you rent only what you need 
   <br/>
 
   <div align="center">
-    <img src="https://cdn-icons-png.flaticon.com/512/3855/3855345.png" width="20%">
+    <img src="https://cdn-icons-png.flaticon.com/512/5551/5551674.png" width="20%">
   </div>
   
   <p>Esta documentação serve como uma plataforma para aprimorar e disseminar conhecimento sobre a AWS. Eu a elaborei de forma intuitiva, incorporando diagramas, partições, exemplos, ilustrações e muito mais.</p>
@@ -411,7 +412,7 @@ In summary, AWS is like "a cloud tool store", where you rent only what you need 
 
 #### Analogia à AWS
 
-A AWS (Amazon Web Services) é uma plataforma de nuvem da Amazon que oferece vários serviços para empresas e desenvolvedores. Para entender melhor, imagine que a AWS é como uma grande loja de ferramentas, onde você pode alugar tudo o que precisa para construir sua casa (ou, neste caso, sua aplicação na nuvem).
+A AWS (Amazon Web Services) é uma plataforma de nuvem da Amazon que oferece vários serviços para empresas e desenvolvedores. Para entender melhor, imagine que a AWS é como uma grande loja de ferramentas, onde você pode alugar tudo o que precisa para construir/ reformar sua casa (ou, neste caso, sua aplicação na nuvem).
 
 Lá você pode encontrar prateleiras simples como o S3 (para armazenamento) até ferramentas mais complexas como o EC2 (para criar servidores virtuais). E se você precisar de algo ainda mais específico, basta dar uma olhada no catálogo da loja (Amazon Marketplace), que tem um pouco de tudo.
 
@@ -422,15 +423,15 @@ Além disso, a AWS conta com uma equipe de segurança que fica de olho em tudo o
 Resumindo, a AWS é como "uma loja de ferramentas na nuvem", onde você aluga apenas o que precisa e tem a segurança garantida pela equipe da Amazon. Agora é só escolher as ferramentas certas para construir sua casa (ou sua aplicação) e colocar as mãos à obra!
 
 <div align="center">
-    <img src="https://cdn-icons-png.flaticon.com/512/7714/7714580.png" width="12%">
+    <img src="https://cdn-icons-png.flaticon.com/512/3764/3764417.png" width="12%">
     <img src="https://cdn-icons-png.flaticon.com/512/3032/3032220.png" width="5%">
-    <img src="https://cdn-icons-png.flaticon.com/512/7845/7845642.png" width="12%">
+    <img src="https://cdn-icons-png.flaticon.com/512/5357/5357777.png" width="12%">
     <img src="https://cdn-icons-png.flaticon.com/512/3032/3032220.png" width="5%">
-    <img src="https://cdn-icons-png.flaticon.com/512/2590/2590584.png" width="12%">
+    <img src="https://cdn-icons-png.flaticon.com/512/11568/11568924.png" width="12%">
     <img src="https://cdn-icons-png.flaticon.com/512/3032/3032230.png" width="5%">
-    <img src="https://cdn-icons-png.flaticon.com/512/1864/1864777.png" width="12%">
-</div>
-
+    <img src="https://cdn-icons-png.flaticon.com/512/17902/17902959.png" width="12%">
+    <img src="https://cdn-icons-png.flaticon.com/512/2241/2241772.png" width="12%">
+  </div> 
 
 </details>
 <details>
