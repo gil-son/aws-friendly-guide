@@ -330,17 +330,19 @@ In summary, AWS is like "a cloud tool store", where you rent only what you need 
 - <a href="https://simuladoclf.s3.amazonaws.com/english.html" target="_blank">Simulado CLF</a>
 - <a href="https://en.daypo.com/aws-cloud-practicioner-clf-c02.html" target="_blank">Daypo</a>
 - <a href="https://www.examprepper.co/" target="_blank">Examprepper</a>
+- <a href="https://certifica.tech" target="_blank">Certifica.tech</a>
 
 ### Developer Associate (DVA-C01)
 - <a href="https://devspot.org/DVA-C01.html" target="_blank">DevSpot</a>  
 - <a href="https://www.freecram.net/exam/DVA-C01-aws-certified-developer-associate-exam-e10023.html" target="_blank">FreeCram</a>
 - <a href="https://en.daypo.com/aws-developer-tricky-question.html" target="_blank">Daypo</a>
 - <a href="https://www.examprepper.co/" target="_blank">Examprepper</a>
+- <a href="https://certifica.tech" target="_blank">Certifica.tech</a>
 
 ### Solutions Architect (SAA-C02)
 - <a href="https://devspot.org/SAA-C02.html" target="_blank">DevSpot</a>
 - <a href="https://www.examprepper.co/" target="_blank">Examprepper</a>
-
+- <a href="https://certifica.tech" target="_blank">Certifica.tech</a>
 </details>
 
 <details>
@@ -719,16 +721,19 @@ Resumindo, a AWS é como "uma loja de ferramentas na nuvem", onde você aluga ap
 - <a href="https://simuladoclf.s3.amazonaws.com/english.html" target="_blank">Simulado CLF</a>
 - <a href="https://en.daypo.com/aws-cloud-practicioner-clf-c02.html" target="_blank">Daypo</a>
 - <a href="https://www.examprepper.co/" target="_blank">Examprepper</a>
+- <a href="https://certifica.tech" target="_blank">Certifica.tech</a>
 
 ### Developer Associate (DVA-C01)
 - <a href="https://devspot.org/DVA-C01.html" target="_blank">DevSpot</a>  
 - <a href="https://www.freecram.net/exam/DVA-C01-aws-certified-developer-associate-exam-e10023.html" target="_blank">FreeCram</a>
 - <a href="https://en.daypo.com/aws-developer-tricky-question.html" target="_blank">Daypo</a>
 - <a href="https://www.examprepper.co/" target="_blank">Examprepper</a>
+- <a href="https://certifica.tech" target="_blank">Certifica.tech</a>
 
 ### Solutions Architect (SAA-C02)
 - <a href="https://devspot.org/SAA-C02.html" target="_blank">DevSpot</a>
 - <a href="https://www.examprepper.co/" target="_blank">Examprepper</a>
+- <a href="https://certifica.tech" target="_blank">Certifica.tech</a>
 
 </details>
 
