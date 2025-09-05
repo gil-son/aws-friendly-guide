@@ -842,9 +842,9 @@ Resumindo, a AWS é como "uma loja de ferramentas na nuvem", onde você aluga ap
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
     <th>Logo</th>
-    <th>Certification</th>
+    <th>Certificação</th>
     <th>Level</th>
-    <th>Resources</th>
+    <th>Sites</th>
   </tr>
 
   <!-- Foundational -->
