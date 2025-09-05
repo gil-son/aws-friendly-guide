@@ -326,74 +326,196 @@ In summary, AWS is like "a cloud tool store", where you rent only what you need 
 
 ## AWS Certification Resources
 
-### Cloud Practitioner (CLF-C02)
-- <a href="https://simuladoclf.s3.amazonaws.com/english.html" target="_blank">Simulado CLF</a>
-- <a href="https://en.daypo.com/aws-cloud-practicioner-clf-c02.html" target="_blank">Daypo</a>
-- <a href="https://www.examprepper.co/" target="_blank">Examprepper</a>
-- <a href="https://certifica.tech" target="_blank">Certifica.tech</a>
+<table border="1" cellspacing="0" cellpadding="6">
+  <tr>
+    <th>Logo</th>
+    <th>Certification</th>
+    <th>Level</th>
+    <th>Resources</th>
+  </tr>
 
-### Developer Associate (DVA-C01)
-- <a href="https://devspot.org/DVA-C01.html" target="_blank">DevSpot</a>  
-- <a href="https://www.freecram.net/exam/DVA-C01-aws-certified-developer-associate-exam-e10023.html" target="_blank">FreeCram</a>
-- <a href="https://en.daypo.com/aws-developer-tricky-question.html" target="_blank">Daypo</a>
-- <a href="https://www.examprepper.co/" target="_blank">Examprepper</a>
-- <a href="https://certifica.tech" target="_blank">Certifica.tech</a>
+  <!-- Foundational -->
+  <tr>
+    <td align="center">
+      <img src="https://certifica.tech/logos/aws-cloud-practitioner.png" alt="Foundational Badge" width="100%">
+    </td>
+    <td><strong>AWS Certified Cloud Practitioner (CLF-C02)</strong></td>
+    <td>Foundational</td>
+    <td>
+      <ul>
+        <li><a href="https://simuladoclf.s3.amazonaws.com/english.html" target="_blank">Simulado CLF</a></li>
+        <li><a href="https://en.daypo.com/aws-cloud-practicioner-clf-c02.html" target="_blank">Daypo</a></li>
+        <li><a href="https://www.examprepper.co/" target="_blank">Examprepper</a></li>
+        <li><a href="https://certifica.tech" target="_blank">Certifica.tech</a></li>
+      </ul>
+    </td>
+  </tr>
 
-### Solutions Architect (SAA-C02)
-- <a href="https://devspot.org/SAA-C02.html" target="_blank">DevSpot</a>
-- <a href="https://www.examprepper.co/" target="_blank">Examprepper</a>
-- <a href="https://certifica.tech" target="_blank">Certifica.tech</a>
+  <tr>
+    <td align="center">
+      <img src="https://certifica.tech/logos/aws-cloud-ai-practitioner.png" alt="Foundational Badge" width="100%">
+    </td>
+    <td><strong>AWS Certified Cloud AI Practitioner</strong></td>
+    <td>Foundational</td>
+    <td>
+      <ul>
+        <li><a href="https://simuladoclf.s3.amazonaws.com/english.html" target="_blank">Simulado CLF</a></li>
+        <li><a href="https://en.daypo.com/aws-cloud-practicioner-clf-c02.html" target="_blank">Daypo</a></li>
+        <li><a href="https://www.examprepper.co/" target="_blank">Examprepper</a></li>
+        <li><a href="https://certifica.tech" target="_blank">Certifica.tech</a></li>
+      </ul>
+    </td>
+  </tr>
+
+  <!-- Associate -->
+  <tr>
+    <td align="center">
+      <img src="https://certifica.tech/logos/aws-developer-associate.png" alt="Associate Badge" width="100%">
+    </td>
+    <td><strong>AWS Certified Developer – Associate (DVA-C01)</strong></td>
+    <td>Associate</td>
+    <td>
+      <ul>
+        <li><a href="https://devspot.org/DVA-C01.html" target="_blank">DevSpot</a></li>
+        <li><a href="https://www.freecram.net/exam/DVA-C01-aws-certified-developer-associate-exam-e10023.html" target="_blank">FreeCram</a></li>
+        <li><a href="https://en.daypo.com/aws-developer-tricky-question.html" target="_blank">Daypo</a></li>
+        <li><a href="https://www.examprepper.co/" target="_blank">Examprepper</a></li>
+        <li><a href="https://certifica.tech" target="_blank">Certifica.tech</a></li>
+      </ul>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://certifica.tech/logos/aws-solutions-architect-associate.png" alt="Associate Badge" width="100%">
+    </td>
+    <td><strong>AWS Certified Solutions Architect – Associate (SAA-C02)</strong></td>
+    <td>Associate</td>
+    <td>
+      <ul>
+        <li><a href="https://devspot.org/SAA-C02.html" target="_blank">DevSpot</a></li>
+        <li><a href="https://www.examprepper.co/" target="_blank">Examprepper</a></li>
+        <li><a href="https://certifica.tech" target="_blank">Certifica.tech</a></li>
+      </ul>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://certifica.tech/logos/aws-sysops-administrator-associate.png" alt="Associate Badge" width="100%">
+    </td>
+    <td><strong>AWS Certified SysOps Administrator – Associate</strong></td>
+    <td>Associate</td>
+    <td>
+      <ul>
+        <li><a href="https://www.examprepper.co/" target="_blank">Examprepper</a></li>
+        <li><a href="https://certifica.tech" target="_blank">Certifica.tech</a></li>
+      </ul>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://certifica.tech/logos/aws-data-engineer-associate.png" alt="Associate Badge" width="100%">
+    </td>
+    <td><strong>AWS Certified Data Engineer – Associate</strong></td>
+    <td>Associate</td>
+    <td>
+      <ul>
+        <li><a href="https://www.examprepper.co/" target="_blank">Examprepper</a></li>
+        <li><a href="https://certifica.tech" target="_blank">Certifica.tech</a></li>
+      </ul>
+    </td>
+  </tr>
+
+   <tr>
+    <td align="center">
+      <img src="https://certifica.tech/logos/aws-machine-learning-associate.png" alt="Associate Badge" width="100%">
+    </td>
+    <td><strong>AWS Certified Machine Learning Engineer – Associate</strong></td>
+    <td>Associate</td>
+    <td>
+      <ul>
+        <li><a href="https://www.examprepper.co/" target="_blank">Examprepper</a></li>
+        <li><a href="https://certifica.tech" target="_blank">Certifica.tech</a></li>
+      </ul>
+    </td>
+  </tr>
+  
+  <!-- Professional -->
+  <tr>
+    <td align="center">
+      <img src="https://certifica.tech/logos/aws-solutions-architect-professional.png" width="100%">
+    </td>
+    <td><strong>AWS Certified Solutions Architect – Professional</strong></td>
+    <td>Professional</td>
+    <td>
+      <ul>
+        <li><a href="https://www.examprepper.co/" target="_blank">Examprepper</a></li>
+        <li><a href="https://certifica.tech" target="_blank">Certifica.tech</a></li>
+      </ul>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://certifica.tech/logos/aws-devops-engineer-professional.png" alt="Professional Badge" width="100%">
+    </td>
+    <td><strong>AWS Certified DevOps Engineer – Professional</strong></td>
+    <td>Professional</td>
+    <td>
+      <ul>
+        <li><a href="https://www.examprepper.co/" target="_blank">Examprepper</a></li>
+        <li><a href="https://certifica.tech" target="_blank">Certifica.tech</a></li>
+      </ul>
+    </td>
+  </tr>
+
+  <!-- Specialty (examples, can expand) -->
+  <tr>
+    <td align="center">
+      <img src="https://certifica.tech/logos/aws-advanced-networking-specialty.png" alt="Specialty Badge" width="100%">
+    </td>
+    <td><strong>AWS Certified Advanced Networking – Specialty</strong></td>
+    <td>Specialty</td>
+    <td>
+      <ul>
+        <li><a href="https://www.examprepper.co/" target="_blank">Examprepper</a></li>
+        <li><a href="https://certifica.tech" target="_blank">Certifica.tech</a></li>
+      </ul>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://certifica.tech/logos/aws-machine-learning-specialty.png" alt="Specialty Badge" width="100%">
+    </td>
+    <td><strong>AWS Certified Machine Learning – Specialty</strong></td>
+    <td>Specialty</td>
+    <td>
+      <ul>
+        <li><a href="https://www.examprepper.co/" target="_blank">Examprepper</a></li>
+        <li><a href="https://certifica.tech" target="_blank">Certifica.tech</a></li>
+      </ul>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://certifica.tech/logos/aws-security-specialty.png" alt="Specialty Badge" width="100%">
+    </td>
+    <td><strong>AWS Certified Security – Specialty</strong></td>
+    <td>Specialty</td>
+    <td>
+      <ul>
+        <li><a href="https://www.examprepper.co/" target="_blank">Examprepper</a></li>
+        <li><a href="https://certifica.tech" target="_blank">Certifica.tech</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 </details>
-
-<details>
-  <summary>Exam Performance Predictor</summary>
-
-  <div align="center">
-    <img src="https://cdn-icons-png.flaticon.com/512/10817/10817446.png" width="20%">
-  </div>
-
-  I built an AI-powered web app that predicts your likely exam score based on your habits, sleep, study routine, motivation, and more.
-
-  ### 🧠 How it Works
-
-  1. **Provide Your Information**  
-     Input basic personal and study-related details.
-
-  <div align="center">
-    <img src="https://cdn-icons-png.flaticon.com/512/4061/4061961.png" width="10%">
-  </div>
-
-  2. **AI Makes a Prediction**  
-     A Linear Regression model analyzes your inputs to estimate your exam score.
-
-  <div align="center">
-    <img src="https://cdn-icons-png.flaticon.com/512/10087/10087719.png" width="10%">
-  </div>
-
-  3. **Get an Approximate Score**  
-     You'll receive a predicted performance percentage.
-
-  <div align="center">
-    <img src="https://cdn-icons-png.flaticon.com/512/1549/1549879.png" width="10%">
-  </div>
-
-  ### ✅ Features
-
-  - Friendly Streamlit interface  
-  - Real-time performance prediction  
-  - Human verification to block bots  
-  - Cooldown system to prevent repeated requests  
-
-  ### 🔗 Links
-
-  - 🚀 **Live App**: [Try it here](http://52.91.18.57:8501)
-  - 🛠️ **Source Code**: [GitHub Repository](https://github.com/gil-son/exam-predictor-linear-regression)
-     - This is the **Beta version**
-     - Available daily from **10 AM to 7 PM (UTC-3 / Brasília Time)**
-     - You can test it **once per day**  
-
-</details>
-
 
 <hr/>
 
@@ -717,72 +839,194 @@ Resumindo, a AWS é como "uma loja de ferramentas na nuvem", onde você aluga ap
 
 ## Recursos para Certificação AWS
 
-### Cloud Practitioner (CLF-C02)
-- <a href="https://simuladoclf.s3.amazonaws.com/english.html" target="_blank">Simulado CLF</a>
-- <a href="https://en.daypo.com/aws-cloud-practicioner-clf-c02.html" target="_blank">Daypo</a>
-- <a href="https://www.examprepper.co/" target="_blank">Examprepper</a>
-- <a href="https://certifica.tech" target="_blank">Certifica.tech</a>
+<table border="1" cellspacing="0" cellpadding="6">
+  <tr>
+    <th>Logo</th>
+    <th>Certification</th>
+    <th>Level</th>
+    <th>Resources</th>
+  </tr>
 
-### Developer Associate (DVA-C01)
-- <a href="https://devspot.org/DVA-C01.html" target="_blank">DevSpot</a>  
-- <a href="https://www.freecram.net/exam/DVA-C01-aws-certified-developer-associate-exam-e10023.html" target="_blank">FreeCram</a>
-- <a href="https://en.daypo.com/aws-developer-tricky-question.html" target="_blank">Daypo</a>
-- <a href="https://www.examprepper.co/" target="_blank">Examprepper</a>
-- <a href="https://certifica.tech" target="_blank">Certifica.tech</a>
+  <!-- Foundational -->
+  <tr>
+    <td align="center">
+      <img src="https://certifica.tech/logos/aws-cloud-practitioner.png" alt="Foundational Badge" width="100%">
+    </td>
+    <td><strong>AWS Certified Cloud Practitioner (CLF-C02)</strong></td>
+    <td>Foundational</td>
+    <td>
+      <ul>
+        <li><a href="https://simuladoclf.s3.amazonaws.com/english.html" target="_blank">Simulado CLF</a></li>
+        <li><a href="https://en.daypo.com/aws-cloud-practicioner-clf-c02.html" target="_blank">Daypo</a></li>
+        <li><a href="https://www.examprepper.co/" target="_blank">Examprepper</a></li>
+        <li><a href="https://certifica.tech" target="_blank">Certifica.tech</a></li>
+      </ul>
+    </td>
+  </tr>
 
-### Solutions Architect (SAA-C02)
-- <a href="https://devspot.org/SAA-C02.html" target="_blank">DevSpot</a>
-- <a href="https://www.examprepper.co/" target="_blank">Examprepper</a>
-- <a href="https://certifica.tech" target="_blank">Certifica.tech</a>
+  <tr>
+    <td align="center">
+      <img src="https://certifica.tech/logos/aws-cloud-ai-practitioner.png" alt="Foundational Badge" width="100%">
+    </td>
+    <td><strong>AWS Certified Cloud AI Practitioner</strong></td>
+    <td>Foundational</td>
+    <td>
+      <ul>
+        <li><a href="https://simuladoclf.s3.amazonaws.com/english.html" target="_blank">Simulado CLF</a></li>
+        <li><a href="https://en.daypo.com/aws-cloud-practicioner-clf-c02.html" target="_blank">Daypo</a></li>
+        <li><a href="https://www.examprepper.co/" target="_blank">Examprepper</a></li>
+        <li><a href="https://certifica.tech" target="_blank">Certifica.tech</a></li>
+      </ul>
+    </td>
+  </tr>
 
-</details>
+  <!-- Associate -->
+  <tr>
+    <td align="center">
+      <img src="https://certifica.tech/logos/aws-developer-associate.png" alt="Associate Badge" width="100%">
+    </td>
+    <td><strong>AWS Certified Developer – Associate (DVA-C01)</strong></td>
+    <td>Associate</td>
+    <td>
+      <ul>
+        <li><a href="https://devspot.org/DVA-C01.html" target="_blank">DevSpot</a></li>
+        <li><a href="https://www.freecram.net/exam/DVA-C01-aws-certified-developer-associate-exam-e10023.html" target="_blank">FreeCram</a></li>
+        <li><a href="https://en.daypo.com/aws-developer-tricky-question.html" target="_blank">Daypo</a></li>
+        <li><a href="https://www.examprepper.co/" target="_blank">Examprepper</a></li>
+        <li><a href="https://certifica.tech" target="_blank">Certifica.tech</a></li>
+      </ul>
+    </td>
+  </tr>
 
-<details>
-  <summary>Previsor de Desempenho em Exames</summary>
+  <tr>
+    <td align="center">
+      <img src="https://certifica.tech/logos/aws-solutions-architect-associate.png" alt="Associate Badge" width="100%">
+    </td>
+    <td><strong>AWS Certified Solutions Architect – Associate (SAA-C02)</strong></td>
+    <td>Associate</td>
+    <td>
+      <ul>
+        <li><a href="https://devspot.org/SAA-C02.html" target="_blank">DevSpot</a></li>
+        <li><a href="https://www.examprepper.co/" target="_blank">Examprepper</a></li>
+        <li><a href="https://certifica.tech" target="_blank">Certifica.tech</a></li>
+      </ul>
+    </td>
+  </tr>
 
-  <div align="center">
-    <img src="https://cdn-icons-png.flaticon.com/512/10817/10817446.png" width="20%">
-  </div>
+  <tr>
+    <td align="center">
+      <img src="https://certifica.tech/logos/aws-sysops-administrator-associate.png" alt="Associate Badge" width="100%">
+    </td>
+    <td><strong>AWS Certified SysOps Administrator – Associate</strong></td>
+    <td>Associate</td>
+    <td>
+      <ul>
+        <li><a href="https://www.examprepper.co/" target="_blank">Examprepper</a></li>
+        <li><a href="https://certifica.tech" target="_blank">Certifica.tech</a></li>
+      </ul>
+    </td>
+  </tr>
 
-  Desenvolvi um aplicativo web com IA que prevê sua nota provável em um exame com base em seus hábitos, sono, rotina de estudos, motivação e outros fatores.
+  <tr>
+    <td align="center">
+      <img src="https://certifica.tech/logos/aws-data-engineer-associate.png" alt="Associate Badge" width="100%">
+    </td>
+    <td><strong>AWS Certified Data Engineer – Associate</strong></td>
+    <td>Associate</td>
+    <td>
+      <ul>
+        <li><a href="https://www.examprepper.co/" target="_blank">Examprepper</a></li>
+        <li><a href="https://certifica.tech" target="_blank">Certifica.tech</a></li>
+      </ul>
+    </td>
+  </tr>
 
-  ### 🧠 Como Funciona
+   <tr>
+    <td align="center">
+      <img src="https://certifica.tech/logos/aws-machine-learning-associate.png" alt="Associate Badge" width="100%">
+    </td>
+    <td><strong>AWS Certified Machine Learning Engineer – Associate</strong></td>
+    <td>Associate</td>
+    <td>
+      <ul>
+        <li><a href="https://www.examprepper.co/" target="_blank">Examprepper</a></li>
+        <li><a href="https://certifica.tech" target="_blank">Certifica.tech</a></li>
+      </ul>
+    </td>
+  </tr>
+  
+  <!-- Professional -->
+  <tr>
+    <td align="center">
+      <img src="https://certifica.tech/logos/aws-solutions-architect-professional.png" width="100%">
+    </td>
+    <td><strong>AWS Certified Solutions Architect – Professional</strong></td>
+    <td>Professional</td>
+    <td>
+      <ul>
+        <li><a href="https://www.examprepper.co/" target="_blank">Examprepper</a></li>
+        <li><a href="https://certifica.tech" target="_blank">Certifica.tech</a></li>
+      </ul>
+    </td>
+  </tr>
 
-  1. **Informe Seus Dados**  
-     Forneça informações básicas pessoais e relacionadas aos seus estudos.
+  <tr>
+    <td align="center">
+      <img src="https://certifica.tech/logos/aws-devops-engineer-professional.png" alt="Professional Badge" width="100%">
+    </td>
+    <td><strong>AWS Certified DevOps Engineer – Professional</strong></td>
+    <td>Professional</td>
+    <td>
+      <ul>
+        <li><a href="https://www.examprepper.co/" target="_blank">Examprepper</a></li>
+        <li><a href="https://certifica.tech" target="_blank">Certifica.tech</a></li>
+      </ul>
+    </td>
+  </tr>
 
-  <div align="center">
-    <img src="https://cdn-icons-png.flaticon.com/512/4061/4061961.png" width="10%">
-  </div>
+  <!-- Specialty (examples, can expand) -->
+  <tr>
+    <td align="center">
+      <img src="https://certifica.tech/logos/aws-advanced-networking-specialty.png" alt="Specialty Badge" width="100%">
+    </td>
+    <td><strong>AWS Certified Advanced Networking – Specialty</strong></td>
+    <td>Specialty</td>
+    <td>
+      <ul>
+        <li><a href="https://www.examprepper.co/" target="_blank">Examprepper</a></li>
+        <li><a href="https://certifica.tech" target="_blank">Certifica.tech</a></li>
+      </ul>
+    </td>
+  </tr>
 
-  2. **A IA Faz a Previsão**  
-     Um modelo de Regressão Linear analisa seus dados para estimar sua nota.
+  <tr>
+    <td align="center">
+      <img src="https://certifica.tech/logos/aws-machine-learning-specialty.png" alt="Specialty Badge" width="100%">
+    </td>
+    <td><strong>AWS Certified Machine Learning – Specialty</strong></td>
+    <td>Specialty</td>
+    <td>
+      <ul>
+        <li><a href="https://www.examprepper.co/" target="_blank">Examprepper</a></li>
+        <li><a href="https://certifica.tech" target="_blank">Certifica.tech</a></li>
+      </ul>
+    </td>
+  </tr>
 
-  <div align="center">
-    <img src="https://cdn-icons-png.flaticon.com/512/10087/10087719.png" width="10%">
-  </div>
-
-  3. **Veja Sua Nota Estimada**  
-     Você receberá um percentual aproximado de desempenho.
-
-  <div align="center">
-    <img src="https://cdn-icons-png.flaticon.com/512/1549/1549879.png" width="10%">
-  </div>
-
-  ### ✅ Funcionalidades
-
-  - Interface amigável com Streamlit  
-  - Previsão de desempenho em tempo real  
-  - Verificação humana para evitar bots  
-  - Sistema de espera entre tentativas
-
-  ### 🔗 Links
-
-  - 🚀 **Aplicação online**: [Testar aqui](http://52.91.18.57:8501)
-  - 🛠️ **Código-Fonte**: [Repositório no GitHub](https://github.com/gil-son/exam-predictor-linear-regression)
-    - Esta é a **versão Beta**
-    - Disponível diariamente das **10h às 19h (UTC-3 / Horário de Brasília)**
-    - Você pode testá-la **uma vez por dia**   
+  <tr>
+    <td align="center">
+      <img src="https://certifica.tech/logos/aws-security-specialty.png" alt="Specialty Badge" width="100%">
+    </td>
+    <td><strong>AWS Certified Security – Specialty</strong></td>
+    <td>Specialty</td>
+    <td>
+      <ul>
+        <li><a href="https://www.examprepper.co/" target="_blank">Examprepper</a></li>
+        <li><a href="https://certifica.tech" target="_blank">Certifica.tech</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 </details>
 
