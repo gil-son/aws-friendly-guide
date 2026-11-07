@@ -346,7 +346,6 @@ In summary, AWS is like "a cloud tool store", where you rent only what you need 
         <li><a href="https://simuladoclf.s3.amazonaws.com/english.html" target="_blank">Simulado CLF</a></li>
         <li><a href="https://en.daypo.com/aws-cloud-practicioner-clf-c02.html" target="_blank">Daypo</a></li>
         <li><a href="https://www.examprepper.co/" target="_blank">Examprepper</a></li>
-        <li><a href="https://certifica.tech" target="_blank">Certifica.tech</a></li>
       </ul>
     </td>
   </tr>
@@ -362,7 +361,6 @@ In summary, AWS is like "a cloud tool store", where you rent only what you need 
         <li><a href="https://simuladoclf.s3.amazonaws.com/english.html" target="_blank">Simulado CLF</a></li>
         <li><a href="https://en.daypo.com/aws-cloud-practicioner-clf-c02.html" target="_blank">Daypo</a></li>
         <li><a href="https://www.examprepper.co/" target="_blank">Examprepper</a></li>
-        <li><a href="https://certifica.tech" target="_blank">Certifica.tech</a></li>
       </ul>
     </td>
   </tr>
@@ -380,7 +378,6 @@ In summary, AWS is like "a cloud tool store", where you rent only what you need 
         <li><a href="https://www.freecram.net/exam/DVA-C01-aws-certified-developer-associate-exam-e10023.html" target="_blank">FreeCram</a></li>
         <li><a href="https://en.daypo.com/aws-developer-tricky-question.html" target="_blank">Daypo</a></li>
         <li><a href="https://www.examprepper.co/" target="_blank">Examprepper</a></li>
-        <li><a href="https://certifica.tech" target="_blank">Certifica.tech</a></li>
       </ul>
     </td>
   </tr>
@@ -395,7 +392,6 @@ In summary, AWS is like "a cloud tool store", where you rent only what you need 
       <ul>
         <li><a href="https://devspot.org/SAA-C02.html" target="_blank">DevSpot</a></li>
         <li><a href="https://www.examprepper.co/" target="_blank">Examprepper</a></li>
-        <li><a href="https://certifica.tech" target="_blank">Certifica.tech</a></li>
       </ul>
     </td>
   </tr>
@@ -409,7 +405,6 @@ In summary, AWS is like "a cloud tool store", where you rent only what you need 
     <td>
       <ul>
         <li><a href="https://www.examprepper.co/" target="_blank">Examprepper</a></li>
-        <li><a href="https://certifica.tech" target="_blank">Certifica.tech</a></li>
       </ul>
     </td>
   </tr>
@@ -423,7 +418,6 @@ In summary, AWS is like "a cloud tool store", where you rent only what you need 
     <td>
       <ul>
         <li><a href="https://www.examprepper.co/" target="_blank">Examprepper</a></li>
-        <li><a href="https://certifica.tech" target="_blank">Certifica.tech</a></li>
       </ul>
     </td>
   </tr>
@@ -437,7 +431,6 @@ In summary, AWS is like "a cloud tool store", where you rent only what you need 
     <td>
       <ul>
         <li><a href="https://www.examprepper.co/" target="_blank">Examprepper</a></li>
-        <li><a href="https://certifica.tech" target="_blank">Certifica.tech</a></li>
       </ul>
     </td>
   </tr>
@@ -452,7 +445,6 @@ In summary, AWS is like "a cloud tool store", where you rent only what you need 
     <td>
       <ul>
         <li><a href="https://www.examprepper.co/" target="_blank">Examprepper</a></li>
-        <li><a href="https://certifica.tech" target="_blank">Certifica.tech</a></li>
       </ul>
     </td>
   </tr>
@@ -466,7 +458,6 @@ In summary, AWS is like "a cloud tool store", where you rent only what you need 
     <td>
       <ul>
         <li><a href="https://www.examprepper.co/" target="_blank">Examprepper</a></li>
-        <li><a href="https://certifica.tech" target="_blank">Certifica.tech</a></li>
       </ul>
     </td>
   </tr>
@@ -481,7 +472,6 @@ In summary, AWS is like "a cloud tool store", where you rent only what you need 
     <td>
       <ul>
         <li><a href="https://www.examprepper.co/" target="_blank">Examprepper</a></li>
-        <li><a href="https://certifica.tech" target="_blank">Certifica.tech</a></li>
       </ul>
     </td>
   </tr>
@@ -495,7 +485,6 @@ In summary, AWS is like "a cloud tool store", where you rent only what you need 
     <td>
       <ul>
         <li><a href="https://www.examprepper.co/" target="_blank">Examprepper</a></li>
-        <li><a href="https://certifica.tech" target="_blank">Certifica.tech</a></li>
       </ul>
     </td>
   </tr>
@@ -509,7 +498,6 @@ In summary, AWS is like "a cloud tool store", where you rent only what you need 
     <td>
       <ul>
         <li><a href="https://www.examprepper.co/" target="_blank">Examprepper</a></li>
-        <li><a href="https://certifica.tech" target="_blank">Certifica.tech</a></li>
       </ul>
     </td>
   </tr>
@@ -859,7 +847,6 @@ Resumindo, a AWS é como "uma loja de ferramentas na nuvem", onde você aluga ap
         <li><a href="https://simuladoclf.s3.amazonaws.com/english.html" target="_blank">Simulado CLF</a></li>
         <li><a href="https://en.daypo.com/aws-cloud-practicioner-clf-c02.html" target="_blank">Daypo</a></li>
         <li><a href="https://www.examprepper.co/" target="_blank">Examprepper</a></li>
-        <li><a href="https://certifica.tech" target="_blank">Certifica.tech</a></li>
       </ul>
     </td>
   </tr>
@@ -875,7 +862,6 @@ Resumindo, a AWS é como "uma loja de ferramentas na nuvem", onde você aluga ap
         <li><a href="https://simuladoclf.s3.amazonaws.com/english.html" target="_blank">Simulado CLF</a></li>
         <li><a href="https://en.daypo.com/aws-cloud-practicioner-clf-c02.html" target="_blank">Daypo</a></li>
         <li><a href="https://www.examprepper.co/" target="_blank">Examprepper</a></li>
-        <li><a href="https://certifica.tech" target="_blank">Certifica.tech</a></li>
       </ul>
     </td>
   </tr>
@@ -893,7 +879,6 @@ Resumindo, a AWS é como "uma loja de ferramentas na nuvem", onde você aluga ap
         <li><a href="https://www.freecram.net/exam/DVA-C01-aws-certified-developer-associate-exam-e10023.html" target="_blank">FreeCram</a></li>
         <li><a href="https://en.daypo.com/aws-developer-tricky-question.html" target="_blank">Daypo</a></li>
         <li><a href="https://www.examprepper.co/" target="_blank">Examprepper</a></li>
-        <li><a href="https://certifica.tech" target="_blank">Certifica.tech</a></li>
       </ul>
     </td>
   </tr>
@@ -908,7 +893,6 @@ Resumindo, a AWS é como "uma loja de ferramentas na nuvem", onde você aluga ap
       <ul>
         <li><a href="https://devspot.org/SAA-C02.html" target="_blank">DevSpot</a></li>
         <li><a href="https://www.examprepper.co/" target="_blank">Examprepper</a></li>
-        <li><a href="https://certifica.tech" target="_blank">Certifica.tech</a></li>
       </ul>
     </td>
   </tr>
@@ -922,7 +906,6 @@ Resumindo, a AWS é como "uma loja de ferramentas na nuvem", onde você aluga ap
     <td>
       <ul>
         <li><a href="https://www.examprepper.co/" target="_blank">Examprepper</a></li>
-        <li><a href="https://certifica.tech" target="_blank">Certifica.tech</a></li>
       </ul>
     </td>
   </tr>
@@ -936,7 +919,6 @@ Resumindo, a AWS é como "uma loja de ferramentas na nuvem", onde você aluga ap
     <td>
       <ul>
         <li><a href="https://www.examprepper.co/" target="_blank">Examprepper</a></li>
-        <li><a href="https://certifica.tech" target="_blank">Certifica.tech</a></li>
       </ul>
     </td>
   </tr>
@@ -950,7 +932,6 @@ Resumindo, a AWS é como "uma loja de ferramentas na nuvem", onde você aluga ap
     <td>
       <ul>
         <li><a href="https://www.examprepper.co/" target="_blank">Examprepper</a></li>
-        <li><a href="https://certifica.tech" target="_blank">Certifica.tech</a></li>
       </ul>
     </td>
   </tr>
@@ -965,7 +946,6 @@ Resumindo, a AWS é como "uma loja de ferramentas na nuvem", onde você aluga ap
     <td>
       <ul>
         <li><a href="https://www.examprepper.co/" target="_blank">Examprepper</a></li>
-        <li><a href="https://certifica.tech" target="_blank">Certifica.tech</a></li>
       </ul>
     </td>
   </tr>
@@ -979,7 +959,6 @@ Resumindo, a AWS é como "uma loja de ferramentas na nuvem", onde você aluga ap
     <td>
       <ul>
         <li><a href="https://www.examprepper.co/" target="_blank">Examprepper</a></li>
-        <li><a href="https://certifica.tech" target="_blank">Certifica.tech</a></li>
       </ul>
     </td>
   </tr>
@@ -994,7 +973,6 @@ Resumindo, a AWS é como "uma loja de ferramentas na nuvem", onde você aluga ap
     <td>
       <ul>
         <li><a href="https://www.examprepper.co/" target="_blank">Examprepper</a></li>
-        <li><a href="https://certifica.tech" target="_blank">Certifica.tech</a></li>
       </ul>
     </td>
   </tr>
@@ -1008,7 +986,6 @@ Resumindo, a AWS é como "uma loja de ferramentas na nuvem", onde você aluga ap
     <td>
       <ul>
         <li><a href="https://www.examprepper.co/" target="_blank">Examprepper</a></li>
-        <li><a href="https://certifica.tech" target="_blank">Certifica.tech</a></li>
       </ul>
     </td>
   </tr>
@@ -1022,7 +999,6 @@ Resumindo, a AWS é como "uma loja de ferramentas na nuvem", onde você aluga ap
     <td>
       <ul>
         <li><a href="https://www.examprepper.co/" target="_blank">Examprepper</a></li>
-        <li><a href="https://certifica.tech" target="_blank">Certifica.tech</a></li>
       </ul>
     </td>
   </tr>
@@ -1035,4 +1011,3 @@ Resumindo, a AWS é como "uma loja de ferramentas na nuvem", onde você aluga ap
 <div align="center">
   <img src="https://i.ibb.co/kgNSnpv/git-support.png">
 </div>
-
