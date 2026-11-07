@@ -337,7 +337,7 @@ In summary, AWS is like "a cloud tool store", where you rent only what you need 
   <!-- Foundational -->
   <tr>
     <td align="center">
-      <img src="https://certifica.tech/logos/aws-cloud-practitioner.png" alt="Foundational Badge" width="100%">
+      <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="Foundational Badge" width="100%">
     </td>
     <td><strong>AWS Certified Cloud Practitioner (CLF-C02)</strong></td>
     <td>Foundational</td>
@@ -353,7 +353,7 @@ In summary, AWS is like "a cloud tool store", where you rent only what you need 
 
   <tr>
     <td align="center">
-      <img src="https://certifica.tech/logos/aws-cloud-ai-practitioner.png" alt="Foundational Badge" width="100%">
+      <img src="https://images.credly.com/size/340x340/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="Foundational Badge" width="100%">
     </td>
     <td><strong>AWS Certified Cloud AI Practitioner</strong></td>
     <td>Foundational</td>
@@ -370,7 +370,7 @@ In summary, AWS is like "a cloud tool store", where you rent only what you need 
   <!-- Associate -->
   <tr>
     <td align="center">
-      <img src="https://certifica.tech/logos/aws-developer-associate.png" alt="Associate Badge" width="100%">
+      <img src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="Associate Badge" width="100%">
     </td>
     <td><strong>AWS Certified Developer – Associate (DVA-C01)</strong></td>
     <td>Associate</td>
@@ -387,7 +387,7 @@ In summary, AWS is like "a cloud tool store", where you rent only what you need 
 
   <tr>
     <td align="center">
-      <img src="https://certifica.tech/logos/aws-solutions-architect-associate.png" alt="Associate Badge" width="100%">
+      <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="Associate Badge" width="100%">
     </td>
     <td><strong>AWS Certified Solutions Architect – Associate (SAA-C02)</strong></td>
     <td>Associate</td>
@@ -402,7 +402,7 @@ In summary, AWS is like "a cloud tool store", where you rent only what you need 
 
   <tr>
     <td align="center">
-      <img src="https://certifica.tech/logos/aws-sysops-administrator-associate.png" alt="Associate Badge" width="100%">
+      <img src="https://images.credly.com/images/0d35479e-dc0e-431d-94e8-2fdf7f68b99c/tempfile20210707-63-rpi8om.png" alt="Associate Badge" width="100%">
     </td>
     <td><strong>AWS Certified SysOps Administrator – Associate</strong></td>
     <td>Associate</td>
@@ -416,7 +416,7 @@ In summary, AWS is like "a cloud tool store", where you rent only what you need 
 
   <tr>
     <td align="center">
-      <img src="https://certifica.tech/logos/aws-data-engineer-associate.png" alt="Associate Badge" width="100%">
+      <img src="https://images.credly.com/size/340x340/images/e5c85d7f-4e50-431e-b5af-fa9d9b0596e7/image.png" alt="Associate Badge" width="100%">
     </td>
     <td><strong>AWS Certified Data Engineer – Associate</strong></td>
     <td>Associate</td>
@@ -430,7 +430,7 @@ In summary, AWS is like "a cloud tool store", where you rent only what you need 
 
    <tr>
     <td align="center">
-      <img src="https://certifica.tech/logos/aws-machine-learning-associate.png" alt="Associate Badge" width="100%">
+      <img src="https://images.credly.com/size/340x340/images/1a634b4e-3d6b-4a74-b118-c0dcb429e8d2/image.png" alt="Associate Badge" width="100%">
     </td>
     <td><strong>AWS Certified Machine Learning Engineer – Associate</strong></td>
     <td>Associate</td>
@@ -445,7 +445,7 @@ In summary, AWS is like "a cloud tool store", where you rent only what you need 
   <!-- Professional -->
   <tr>
     <td align="center">
-      <img src="https://certifica.tech/logos/aws-solutions-architect-professional.png" width="100%">
+      <img src="https://images.credly.com/size/340x340/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" width="100%">
     </td>
     <td><strong>AWS Certified Solutions Architect – Professional</strong></td>
     <td>Professional</td>
@@ -459,7 +459,7 @@ In summary, AWS is like "a cloud tool store", where you rent only what you need 
 
   <tr>
     <td align="center">
-      <img src="https://certifica.tech/logos/aws-devops-engineer-professional.png" alt="Professional Badge" width="100%">
+      <img src="https://images.credly.com/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" alt="Professional Badge" width="100%">
     </td>
     <td><strong>AWS Certified DevOps Engineer – Professional</strong></td>
     <td>Professional</td>
@@ -474,7 +474,7 @@ In summary, AWS is like "a cloud tool store", where you rent only what you need 
   <!-- Specialty (examples, can expand) -->
   <tr>
     <td align="center">
-      <img src="https://certifica.tech/logos/aws-advanced-networking-specialty.png" alt="Specialty Badge" width="100%">
+      <img src="https://images.credly.com/size/340x340/images/4d08274f-64c1-495e-986b-3143f51b1371/image.png" alt="Specialty Badge" width="100%">
     </td>
     <td><strong>AWS Certified Advanced Networking – Specialty</strong></td>
     <td>Specialty</td>
@@ -488,7 +488,7 @@ In summary, AWS is like "a cloud tool store", where you rent only what you need 
 
   <tr>
     <td align="center">
-      <img src="https://certifica.tech/logos/aws-machine-learning-specialty.png" alt="Specialty Badge" width="100%">
+      <img src="https://images.credly.com/size/340x340/images/778bde6c-ad1c-4312-ac33-2fa40d50a147/image.png" alt="Specialty Badge" width="100%">
     </td>
     <td><strong>AWS Certified Machine Learning – Specialty</strong></td>
     <td>Specialty</td>
@@ -502,7 +502,7 @@ In summary, AWS is like "a cloud tool store", where you rent only what you need 
 
   <tr>
     <td align="center">
-      <img src="https://certifica.tech/logos/aws-security-specialty.png" alt="Specialty Badge" width="100%">
+      <img src="https://images.credly.com/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png" alt="Specialty Badge" width="100%">
     </td>
     <td><strong>AWS Certified Security – Specialty</strong></td>
     <td>Specialty</td>
@@ -850,7 +850,7 @@ Resumindo, a AWS é como "uma loja de ferramentas na nuvem", onde você aluga ap
   <!-- Foundational -->
   <tr>
     <td align="center">
-      <img src="https://certifica.tech/logos/aws-cloud-practitioner.png" alt="Foundational Badge" width="100%">
+      <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="Foundational Badge" width="100%">
     </td>
     <td><strong>AWS Certified Cloud Practitioner (CLF-C02)</strong></td>
     <td>Foundational</td>
@@ -866,7 +866,7 @@ Resumindo, a AWS é como "uma loja de ferramentas na nuvem", onde você aluga ap
 
   <tr>
     <td align="center">
-      <img src="https://certifica.tech/logos/aws-cloud-ai-practitioner.png" alt="Foundational Badge" width="100%">
+      <img src="https://images.credly.com/size/340x340/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="Foundational Badge" width="100%">
     </td>
     <td><strong>AWS Certified Cloud AI Practitioner</strong></td>
     <td>Foundational</td>
@@ -883,7 +883,7 @@ Resumindo, a AWS é como "uma loja de ferramentas na nuvem", onde você aluga ap
   <!-- Associate -->
   <tr>
     <td align="center">
-      <img src="https://certifica.tech/logos/aws-developer-associate.png" alt="Associate Badge" width="100%">
+      <img src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="Associate Badge" width="100%">
     </td>
     <td><strong>AWS Certified Developer – Associate (DVA-C01)</strong></td>
     <td>Associate</td>
@@ -900,7 +900,7 @@ Resumindo, a AWS é como "uma loja de ferramentas na nuvem", onde você aluga ap
 
   <tr>
     <td align="center">
-      <img src="https://certifica.tech/logos/aws-solutions-architect-associate.png" alt="Associate Badge" width="100%">
+      <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="Associate Badge" width="100%">
     </td>
     <td><strong>AWS Certified Solutions Architect – Associate (SAA-C02)</strong></td>
     <td>Associate</td>
@@ -915,7 +915,7 @@ Resumindo, a AWS é como "uma loja de ferramentas na nuvem", onde você aluga ap
 
   <tr>
     <td align="center">
-      <img src="https://certifica.tech/logos/aws-sysops-administrator-associate.png" alt="Associate Badge" width="100%">
+      <img src="https://images.credly.com/images/0d35479e-dc0e-431d-94e8-2fdf7f68b99c/tempfile20210707-63-rpi8om.png" alt="Associate Badge" width="100%">
     </td>
     <td><strong>AWS Certified SysOps Administrator – Associate</strong></td>
     <td>Associate</td>
@@ -929,7 +929,7 @@ Resumindo, a AWS é como "uma loja de ferramentas na nuvem", onde você aluga ap
 
   <tr>
     <td align="center">
-      <img src="https://certifica.tech/logos/aws-data-engineer-associate.png" alt="Associate Badge" width="100%">
+      <img src="https://images.credly.com/size/340x340/images/e5c85d7f-4e50-431e-b5af-fa9d9b0596e7/image.png" alt="Associate Badge" width="100%">
     </td>
     <td><strong>AWS Certified Data Engineer – Associate</strong></td>
     <td>Associate</td>
@@ -943,7 +943,7 @@ Resumindo, a AWS é como "uma loja de ferramentas na nuvem", onde você aluga ap
 
    <tr>
     <td align="center">
-      <img src="https://certifica.tech/logos/aws-machine-learning-associate.png" alt="Associate Badge" width="100%">
+      <img src="https://images.credly.com/size/340x340/images/1a634b4e-3d6b-4a74-b118-c0dcb429e8d2/image.png" alt="Associate Badge" width="100%">
     </td>
     <td><strong>AWS Certified Machine Learning Engineer – Associate</strong></td>
     <td>Associate</td>
@@ -958,7 +958,7 @@ Resumindo, a AWS é como "uma loja de ferramentas na nuvem", onde você aluga ap
   <!-- Professional -->
   <tr>
     <td align="center">
-      <img src="https://certifica.tech/logos/aws-solutions-architect-professional.png" width="100%">
+      <img src="https://images.credly.com/size/340x340/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" width="100%">
     </td>
     <td><strong>AWS Certified Solutions Architect – Professional</strong></td>
     <td>Professional</td>
@@ -972,7 +972,7 @@ Resumindo, a AWS é como "uma loja de ferramentas na nuvem", onde você aluga ap
 
   <tr>
     <td align="center">
-      <img src="https://certifica.tech/logos/aws-devops-engineer-professional.png" alt="Professional Badge" width="100%">
+      <img src="https://images.credly.com/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" alt="Professional Badge" width="100%">
     </td>
     <td><strong>AWS Certified DevOps Engineer – Professional</strong></td>
     <td>Professional</td>
@@ -987,7 +987,7 @@ Resumindo, a AWS é como "uma loja de ferramentas na nuvem", onde você aluga ap
   <!-- Specialty (examples, can expand) -->
   <tr>
     <td align="center">
-      <img src="https://certifica.tech/logos/aws-advanced-networking-specialty.png" alt="Specialty Badge" width="100%">
+      <img src="https://images.credly.com/size/340x340/images/4d08274f-64c1-495e-986b-3143f51b1371/image.png" alt="Specialty Badge" width="100%">
     </td>
     <td><strong>AWS Certified Advanced Networking – Specialty</strong></td>
     <td>Specialty</td>
@@ -1001,7 +1001,7 @@ Resumindo, a AWS é como "uma loja de ferramentas na nuvem", onde você aluga ap
 
   <tr>
     <td align="center">
-      <img src="https://certifica.tech/logos/aws-machine-learning-specialty.png" alt="Specialty Badge" width="100%">
+      <img src="https://images.credly.com/size/340x340/images/778bde6c-ad1c-4312-ac33-2fa40d50a147/image.png" alt="Specialty Badge" width="100%">
     </td>
     <td><strong>AWS Certified Machine Learning – Specialty</strong></td>
     <td>Specialty</td>
@@ -1015,7 +1015,7 @@ Resumindo, a AWS é como "uma loja de ferramentas na nuvem", onde você aluga ap
 
   <tr>
     <td align="center">
-      <img src="https://certifica.tech/logos/aws-security-specialty.png" alt="Specialty Badge" width="100%">
+      <img src="https://images.credly.com/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png" alt="Specialty Badge" width="100%">
     </td>
     <td><strong>AWS Certified Security – Specialty</strong></td>
     <td>Specialty</td>
